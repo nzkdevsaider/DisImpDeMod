@@ -1,0 +1,1 @@
+SELECT dbo.ObtenerTotalOrdenesPorIdEmpleado(1) AS Result;
